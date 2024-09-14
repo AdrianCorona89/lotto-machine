@@ -1,0 +1,1 @@
+Fix the extra empty space on the third shape.
