@@ -1,1 +1,2 @@
 Fix the extra empty space on the third shape.
+Remove the test classes
